@@ -2,7 +2,7 @@
 authors = []
 date = 2020-05-16T21:37:00Z
 excerpt = "E' solo una prova"
-hero = "/images/addio-tensing.jpg"
+hero = "/images/hero-2.jpg"
 timeToRead = 1
 title = "Prova"
 
