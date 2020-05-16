@@ -36,3 +36,5 @@ Chiudo sei Back' (ehi), no roll-paper (gang)
 Run, run, svuoto la cassa (tu-tu)  
 FSK, capi della trap (gang)  
 Sta piovendo cash (ok)…
+
+YEAH
