@@ -9,32 +9,40 @@ title = "Prova"
 +++
 Ciao Mamo
 
-FSK, ollare the gang (ah)  
-4L, sì  
-Ah  
-Ollare, ollare, ollare, ollare
+Mi sono alzato  
+O bella ciao, bella ciao, bella ciao, ciao, ciao  
+Questa mattina mi sono alzato  
+E ho trovato l'invasor
 
-Cocaina nella Cuki (gang)  
-Da noi è sempre mezzogiorno (ollare gang)  
-Lean nel calice di fuoco (lean)  
-Vinco la prova del cuoco (pam-pam)  
-Negro siamo roccia pura (ah)  
-Vanno pazzi per il cocco (cocco bello, ah)  
-Dico e faccio con i brothm (broth')  
-Ti riduci a colabrodo (tu-tu)  
-Cocaina nella Cuki (Cuki)  
-Da noi è sempre mezzogiorno  
-Lean nel calice di fuoco (lean)  
-Vinco la prova del cuoco (ollare the gang)  
-Negro, siamo roccia pura  
-Vanno pazzi per il cocco (tu-tu)  
-Dico e faccio con i brothm (tu-tu-tu-tu-tu)  
-Ti riduci a colabrodo (tu-tu-tu, va-va-va)
+O partigiano, portami via  
+O bella ciao, bella ciao, bella ciao, ciao, ciao  
+O partigiano, portami via  
+Ché mi sento di morir
 
-Okay, no play, mafia (mafia)  
-Chiudo sei Back' (ehi), no roll-paper (gang)  
-Run, run, svuoto la cassa (tu-tu)  
-FSK, capi della trap (gang)  
-Sta piovendo cash (ok)…
+O partigiano  
+Morir  
+Ciao, ciao  
+Morir  
+Bella ciao, ciao, ciao  
+O partigiano  
+O partigiano
 
-YEAH
+Bella ciao, ciao, ciao
+
+E se io muoio da partigiano  
+O bella ciao, bella ciao, bella ciao, ciao, ciao  
+E se muoio da partigiano  
+Tu mi devi seppellir
+
+E seppellire lassù in montagna  
+O bella ciao, bella ciao, bella ciao, ciao, ciao  
+E seppellire lassù in montagna  
+Sotto l'ombra di un bel fior
+
+O partigiano  
+Morir  
+Ciao, ciao  
+Morir  
+Bella ciao, ciao, ciao  
+O partigiano  
+O partigiano
