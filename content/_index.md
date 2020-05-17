@@ -1,7 +1,8 @@
 ---
 hero:
-  heading: SpeechJuice
-  maxWidthPX: 652
+  heading: Sito in costruzione.
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
