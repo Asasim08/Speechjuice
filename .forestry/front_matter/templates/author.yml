@@ -1,18 +1,18 @@
 ---
 label: Author
-hide_body: true
+hide_body: false
 fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Name
 - name: bio
   type: textarea
   default: ''
   config:
-    required: false
-    wysiwyg: false
+    required: true
+    wysiwyg: true
     schema:
       format: markdown
   label: Bio
@@ -27,12 +27,12 @@ fields:
   - name: title
     type: text
     config:
-      required: false
+      required: true
     label: Title
   - name: url
     type: text
     config:
-      required: false
+      required: true
     label: URL
   config:
     min: 
