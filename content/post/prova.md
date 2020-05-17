@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-05-16T21:37:00Z
+date = 2020-05-16T13:37:00Z
 excerpt = "E' solo una prova"
 hero = "/images/hero-2.jpg"
 timeToRead = 1
