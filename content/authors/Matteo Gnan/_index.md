@@ -1,3 +1,10 @@
++++
+avatar = "/images/70523525_10217656805163719_5850876184602083328_n.jpg"
+bio = "Sono matteo"
+featured = true
+title = "Matteo Gnan"
+
++++
 title: Dennis Brotzky
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
